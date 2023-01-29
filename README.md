@@ -4,7 +4,7 @@ I have an excellent grasp of JavaScript and modern web technologies, including C
 
 
 Connect with me 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
           
 
 Languages and Tools
